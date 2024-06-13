@@ -3,6 +3,6 @@ https://stylesuxx.github.io/steganography/
 
 Po wprowadzeniu zdjęcia kota oraz naciśnięciu 
 
-![Pasted image 20240611214449](Pasted%20image%2020240611214449.png)
+![Pasted image 20240611214449](attachements/Pasted%20image%2020240611214449.png)
 
-![Pasted image 20240611214513](Pasted%20image%2020240611214513.png)
+![Pasted image 20240611214513](attachements/Pasted%20image%2020240611214513.png)
